@@ -23,7 +23,7 @@ function App() {
     <div>
       <h1>Sarthak Srivastava</h1><br />
       <h1>Roll Number - 1/22/FET/BCS/419</h1>
-      
+      <footer>Done For ECT Class</footer>
     </div>
   );
 }
